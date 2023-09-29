@@ -75,6 +75,8 @@ class Tableau(_Analytics):
 class Trino(_Analytics):
     _icon = "trino.png"
 
+class pymy(_Analytics):
+    _icon = "pymy.png"
 
 # Aliases
 
