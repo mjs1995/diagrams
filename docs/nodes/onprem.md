@@ -71,8 +71,6 @@ Node classes list of onprem provider.
 <img width="30" src="/img/resources/onprem/analytics/pymy.png" alt="pymy" style="float: left; padding-right: 5px;" >
 **diagrams.onprem.analytics.pymy**
 
-<img width="30" src="/img/resources/onprem/analytics/minio.png" alt="Trino" style="float: left; padding-right: 5px;" >
-**diagrams.onprem.analytics.minio**
 
 ## onprem.auth
 

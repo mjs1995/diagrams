@@ -78,9 +78,6 @@ class Trino(_Analytics):
 class pymy(_Analytics):
     _icon = "pymy.png"
 
-class minio(_Analytics):
-    _icon = "minio.png"
-
 # Aliases
 
 PowerBI = Powerbi
